@@ -54,18 +54,177 @@ RB = Renée Bergland
 
 LB/STB = Leonard Buckle and Suzann Thomas-Buckle
 
-| WEEK # | PROFESSORS | TOPICS |
-| --- | --- | --- |
-| 1 | RB, LB/STB | Welcome/Introduction: What are we talking about? |
-| 2 | RB | Early American sex: history and culture |
-| 3 | LB/STB | Marriage in social and legal history |
-| 4 | RB | Narratives of seduction and abandonment (What makes American seduction and sex so very American?) |
-| 5 | LB/STB | Law's way for bastards and their mothers |
-| 6 | RB | Cross-racial marriage |
-| 7 | LB/STB | Cross-racial marriage and redefined marriage (Race and marriage rethought) |
-| 8 | RB | Intimate friendships |
-| 9 | RB | Boston marriage |
-| 10 | LB/STB | Gay marriage (Goodridge) |
-| 11 | LB/STB | Same-sex marriage and beyond |
-| 12 | LB/STB | Family and feminist futures |
-| 13 | RB, LB/STB | Course wrap-up
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+PROFESSORS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+RB, LB/STB
+{{< tdclose >}}
+{{< tdopen >}}
+Welcome/Introduction: What are we talking about?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+RB
+{{< tdclose >}}
+{{< tdopen >}}
+Early American sex: history and culture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+LB/STB
+{{< tdclose >}}
+{{< tdopen >}}
+Marriage in social and legal history
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+RB
+{{< tdclose >}}
+{{< tdopen >}}
+Narratives of seduction and abandonment (What makes American seduction and sex so very American?)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+LB/STB
+{{< tdclose >}}
+{{< tdopen >}}
+Law's way for bastards and their mothers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+RB
+{{< tdclose >}}
+{{< tdopen >}}
+Cross-racial marriage
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+LB/STB
+{{< tdclose >}}
+{{< tdopen >}}
+Cross-racial marriage and redefined marriage (Race and marriage rethought)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+RB
+{{< tdclose >}}
+{{< tdopen >}}
+Intimate friendships
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+RB
+{{< tdclose >}}
+{{< tdopen >}}
+Boston marriage
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+LB/STB
+{{< tdclose >}}
+{{< tdopen >}}
+Gay marriage (Goodridge)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+LB/STB
+{{< tdclose >}}
+{{< tdopen >}}
+Same-sex marriage and beyond
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+LB/STB
+{{< tdclose >}}
+{{< tdopen >}}
+Family and feminist futures
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+RB, LB/STB
+{{< tdclose >}}
+{{< tdopen >}}
+Course wrap-up
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
