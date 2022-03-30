@@ -78,7 +78,7 @@ Dillon, Elizabeth Maddock. "Nursing Fathers and Brides of Christ: The Feminized 
 
 Foucault, Michel. _Introduction to the History of Sexuality_. New York, NY: Vintage, 1990. ISBN: 9780679724698.
 
-\*Lawrence v. Texas, Amicus Curiae (Historian's Brief). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.apa.org/about/offices/ogc/amicus/lawrence))
+\*Lawrence v. Texas, Amicus Curiae (Historian's Brief). ([PDF](https://www.apa.org/about/offices/ogc/amicus/lawrence))
 
 
 {{< tdclose >}}
